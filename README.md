@@ -15,3 +15,9 @@ Retail inventory management is the process of ensuring you carry merchandise tha
 
 
 In practice, effective retail inventory management results in lower costs and a better understanding of sales patterns. Retail inventory management tools and methods give retailers more information on which to run their businesses. Applications have been developed to help retailers track and manage stocks related to their own products. The System will ask retailers to create their accounts by providing essential details. Retailers can access their accounts by logging into the application.
+
+Technical Architecture:
+
+
+
+![image](https://user-images.githubusercontent.com/105689387/202658530-f170da30-99b9-45ec-86f5-b3ca9be57e15.png)
